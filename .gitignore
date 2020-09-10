@@ -1,0 +1,17 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+web-report/
+package.json
+yarn.lock
+config/*
+.firebaserc
+# macOS
+.DS_Store
